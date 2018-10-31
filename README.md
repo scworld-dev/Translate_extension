@@ -1,1 +1,1 @@
-# Translate_extension
+This is translate extension SC WORLD
